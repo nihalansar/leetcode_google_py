@@ -1,7 +1,7 @@
 '''
 Problem URL : https://leetcode.com/problems/two-sum/
 Difficulty Level : Easy
-Solution :  We are using hash to get maximum efficiency
+Solution :  We are using hash table or dictionary to solve the problem
 '''
 
 class Solution(object):
